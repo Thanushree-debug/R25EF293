@@ -6,3 +6,7 @@ I am a Computer Science and Engineering student interested in programming, techn
 
 ## Skills
 - Learning C programming
+
+## Interests
+- Interested in Artificial Intelligence
+
