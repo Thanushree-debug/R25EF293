@@ -10,3 +10,6 @@ I am a Computer Science and Engineering student interested in programming, techn
 ## Interests
 - Interested in Artificial Intelligence
 
+## Goals
+- Goal: Crack GATE CSE and pursue M.Tech at IIT
+
