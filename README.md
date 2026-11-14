@@ -13,3 +13,12 @@ I am a Computer Science and Engineering student interested in programming, techn
 ## Goals
 - Goal: Crack GATE CSE and pursue M.Tech at IIT
 
+
+## Projects
+
+### 1. IPL Ticket Booking Website
+Developing a responsive IPL ticket booking website using React, Vite, and Supabase.
+
+### 2. Construction Project Website
+Developed a construction project website using HTML, CSS, and JavaScript.
+
